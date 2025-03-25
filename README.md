@@ -208,6 +208,7 @@ You are required to complete the following three analysis tasks using Spark Stru
 **Objective:**
 
 Identify trending hashtags by analyzing their frequency of use across all posts.
+The objective is to analyze social media data using Spark SQL and DataFrames to gain insights into hashtag popularity, user engagement patterns, sentiment impacts, and influencer reach. It involves loading and preprocessing datasets containing user posts, likes, retweets, hashtags, and sentiment scores. Hashtag trends are identified by counting and ranking usage frequency. Engagement analysis compares average likes and retweets across different age groups. Sentiment analysis explores the relationship between post sentiment and audience interaction. Finally, the top verified users are identified by calculating total reach based on combined likes and retweets.
 
 **Tasks:**
 
